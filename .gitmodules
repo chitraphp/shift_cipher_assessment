@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/shift_cipher_module"]
+	path = sites/all/modules/shift_cipher_module
+	url = https://github.com/chitraphp/shift_cipher_module.git
